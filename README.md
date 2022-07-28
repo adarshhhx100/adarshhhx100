@@ -1,6 +1,6 @@
 
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> <br>
-<h1 align="left">Hello Friend!! 👋, I'm Adarsh Chaturvedi</h1>
+<h1 align="left">Hello Friend!!👋, I'm Adarsh Chaturvedi</h1>
 <h3 align="left">A passionate Software Developer from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-chb&label=Profile%20views&color=0e75b6&style=flat" alt="a-chb" /> </p>
