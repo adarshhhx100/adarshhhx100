@@ -35,10 +35,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=a-chb&theme=dark&hide_border=false)<br/>
 
 
-### Quote of the day ✍️:
+## Quote of the day ✍️:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Meme of the day 😂:
+## Meme of the day 😂:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
