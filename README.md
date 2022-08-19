@@ -1,7 +1,10 @@
 
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> <br>
 <h1 align="left">Hello Friend!!👋, I'm Adarsh</h1>
-<h3 align="left">A passionate Software Developer from India</h3>
+<h3 align="left">A passionate Software Developer :computer:</h3>
+    - :telescope: I’m looking for Software Engineer role for frontend and backend to build web applications.<br>
+    - :seedling: Exploring Technical Content.<br>
+    - :zap: I solve problems on Leet Code & GeeksforGeeks and read tech articles.
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-chb&label=Profile%20views&color=0e75b6&style=flat" alt="a-chb" /> </p>
 <h3 align="left">Languages and Tools:</h3> 
