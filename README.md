@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" height="auto" width="800" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"> <br>
-<h1 align="left">Hello Friend!!👋, I'm Adarsh</h1>
+<h1 align="left">Hi there !!👋, I'm Adarsh</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-chb&label=Profile%20views&color=0e75b6&style=flat" alt="a-chb" /> </p>
 
 <h3 align="left">A passionate Software Developer :computer:</h3>
