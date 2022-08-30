@@ -1,5 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://i.imgur.com/dE9nEWu.gif"> <br>
-<img align="center" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11c5e45f-92f1-4501-87ff-e666402a3a41/d9bs31o-8a3bfd33-7746-491b-b6ad-1cda958a3849.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzExYzVlNDVmLTkyZjEtNDUwMS04N2ZmLWU2NjY0MDJhM2E0MVwvZDliczMxby04YTNiZmQzMy03NzQ2LTQ5MWItYjZhZC0xY2RhOTU4YTM4NDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AMRJTipFit8n_lce0pjOwWRFceybUNC3aw0e6xapWrM"> <br>
+<img align="center" alt="Coding" height="auto" width="800" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"> <br>
 <h1 align="left">Hello Friend!!👋, I'm Adarsh</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=a-chb&label=Profile%20views&color=0e75b6&style=flat" alt="a-chb" /> </p>
 
