@@ -1,12 +1,13 @@
-<img align="center" alt="Coding" height="auto" width="800" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"> <br>
+<img align="center" alt="Coding" height="auto" width="700" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"> <br>
+
 <h1 align="left">Hi there !!👋, I'm Adarsh</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=a-chb&label=Profile%20views&color=0e75b6&style=flat" alt="a-chb" /> </p>
+
 
 <h3 align="left">A passionate Software Developer :computer:</h3>
     - :telescope: I’m looking for Software Engineer role for frontend and backend to build web applications.<br>
     - :seedling: Exploring Technical Content.<br>
-    - :zap: I solve problems on Leet Code & GeeksforGeeks and read tech articles.
-
+    - :zap: I solve problems on Leet Code & GeeksforGeeks and read tech articles.<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
@@ -39,7 +40,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=a-chb&label=Profile%20views&color=0e75b6&style=flat" alt="a-chb" /> </p>
 
 
 
