@@ -6,7 +6,7 @@
 <h3 align="left">A passionate Software Developer :computer:</h3>
     - :telescope: I’m looking for Software Engineer role for frontend and backend to build web applications.<br>
     - :seedling: Exploring Technical Content.<br>
-    - :zap: I solve problems on Leet Code & GeeksforGeeks and read tech articles.<br>
+    - :zap: I solve problems on Leet Code and read tech articles.<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3> 
