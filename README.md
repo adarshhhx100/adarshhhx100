@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Software Engineer Committed to delivering high-quality software products. :computer:</h3>
-    - :Shoshinsha mark: Passionate about creating cutting-edge web applications.<br>
+    - 🥇 Passionate about creating cutting-edge web applications.<br>
     - :loudspeaker: Tech enthusiast constantly exploring the latest advancements in the industry.<br>
     - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
     - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
