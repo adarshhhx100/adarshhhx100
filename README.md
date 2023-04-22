@@ -1,12 +1,13 @@
 <img align="center" alt="Coding" height="auto" width="700" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif"> <br>
 
-<h1 align="left">Hi there !!👋, I'm Adarsh</h1>
+<h1 align="left">Hi there !!👋</h1>
 
 
-<h3 align="left">Software Engineer :computer:</h3>
-    - :telescope: Interested in building web applications.<br>
-    - :seedling: Exploring Technical Content.<br>
-    - :zap: Solve problems on Leet Code and read tech articles.<br>
+<h3 align="left">Software Engineer Committed to delivering high-quality software products. :computer:</h3>
+    - :Shoshinsha mark: Passionate about creating cutting-edge web applications.<br>
+    - :loudspeaker: Tech enthusiast constantly exploring the latest advancements in the industry.<br>
+    - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
+    - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3> 
