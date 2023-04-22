@@ -3,10 +3,10 @@
 <h1 align="left">Hi there !!👋, I'm Adarsh</h1>
 
 
-<h3 align="left">A passionate Software Developer :computer:</h3>
-    - :telescope: I’m looking for Software Engineer role for frontend and backend to build web applications.<br>
+<h3 align="left">Software Engineer :computer:</h3>
+    - :telescope: Interested in building web applications.<br>
     - :seedling: Exploring Technical Content.<br>
-    - :zap: I solve problems on Leet Code and read tech articles.<br>
+    - :zap: Solve problems on Leet Code and read tech articles.<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3> 
