@@ -1,4 +1,4 @@
-<img alt="Coding" height="auto" width="700" src="https://media.cnn.com/api/v1/images/stellar/prod/20220324-01-06-17avion.gif?q=h_149,w_400,x_0,y_0/w_1280"> <br>
+<img align="center" alt="Coding" height="auto" width="700" src="https://media.cnn.com/api/v1/images/stellar/prod/20220324-01-06-17avion.gif?q=h_149,w_400,x_0,y_0/w_1280"> <br>
 
 <h1 align="left">Howdy Coder !!!👋 </h1>
 
@@ -9,6 +9,15 @@
     - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
     - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
 <br>
+<h3 align="left">Check me out on:</h3>
+<p align="left">
+<a href="https://twitter.com/an_extremist_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@an_extremist_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarshchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adarshchaturvedi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_dark_horse__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_dark_horse__" height="30" width="40" /></a>
+<a href="https://leetcode.com/extremist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/extremist/" height="30" width="40" /></a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=extremistLab&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="extremistLab" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left">
@@ -25,19 +34,14 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+</p>
    
     
    
     
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/an_extremist_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@an_extremist_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarshchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adarshchaturvedi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_dark_horse__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_dark_horse__" height="30" width="40" /></a>
-<a href="https://leetcode.com/extremist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/extremist/" height="30" width="40" /></a>
-</p>   
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=extremistLab&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="extremistLab" />
 
 ![](https://github-readme-stats.vercel.app/api?username=extremistLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 <br>
