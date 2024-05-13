@@ -6,7 +6,6 @@
     - :loudspeaker: Tech enthusiast constantly exploring the latest advancements in the industry.<br>
     - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
     - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
-<h3 align="right">Check me out on:</h3>
 <p align="right">
     <a href="https://twitter.com/siradarshchb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@an_extremist_" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/_dark_horse__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_dark_horse__" height="30" width="40" /></a>
