@@ -7,11 +7,17 @@
     - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
     - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
 <p align="right">
-    
-    <a href="https://twitter.com/adarshhhx100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@an_extremist_" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/_dark_horse__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_dark_horse__" height="30" width="40" /></a>
-    <a href="https://leetcode.com/version100xOptimizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/version100xOptimizer/" height="30" width="40" /></a>
+    <a href="https://twitter.com/adarshhhx100" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/_dark_horse__" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/version100xOptimizer/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    </a>
 </p>
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshhhx100&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="adarshhhx100" style="float: left;">
