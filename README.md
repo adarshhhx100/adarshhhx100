@@ -10,8 +10,8 @@
     <a href="https://twitter.com/adarshhhx100" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/_dark_horse__" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/_dark_horse__" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /> -->
     </a>
     <a href="https://leetcode.com/version100xOptimizer/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
@@ -20,11 +20,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshhhx100&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="adarshhhx100" style="float: left;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adarshhhx100&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="float: right;">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshhhx100&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="clear: both;">
 
 
 
