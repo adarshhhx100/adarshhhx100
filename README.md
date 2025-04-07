@@ -2,11 +2,12 @@
 <h1 align="left">Howdy👋 </h1>
 
 <h3 align="left">Software Engineer Committed to delivering high-quality software products. :computer:</h3>
-
+<p>
     - 🥇 Passionate about creating cutting-edge web applications.<br>
     - :loudspeaker: Tech enthusiast constantly exploring the latest advancements in the industry.<br>
     - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
     - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
+</p>
     
 <p align="right">
     <a href="https://twitter.com/adarshhhx100" target="_blank">
