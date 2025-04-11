@@ -6,7 +6,7 @@
     - 🥇 Passionate about creating cutting-edge web applications.<br>
     - :loudspeaker: Tech enthusiast constantly exploring the latest advancements in the industry.<br>
     - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
-    
+    - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
 </p>
     
 <p align="right">
