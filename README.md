@@ -3,18 +3,13 @@
 
 <h3 align="left"> 💻 Software Engineer | Web Developer | AIML Enthusiast | Open Source & Freelancer :computer:</h3>
 <p>
-    - 🥇 Passionate about creating cutting-edge web applications.<br>
-    - :loudspeaker: Tech enthusiast constantly exploring the latest advancements in the industry.<br>
-    - :zap: Leetcode addict who thrives on problem solving and and find creative solutions.<br>
-    - :compass: Constantly seeking new challenges and ways to improve my skills as a developer.<br>
-   
-🥇 Passionate about building high-quality, modern web applications that solve real-world problems.
-⚡ LeetCode addict who enjoys tackling complex challenges with creative and efficient solutions.
-📢 Tech explorer always on the lookout for the latest tools, frameworks, and industry trends.
-🧭 Constantly evolving through open source contributions and hands-on learning.
-🎯 Freelance developer delivering reliable, scalable solutions for clients around the globe.
+    - 🥇 Passionate about building high-quality, modern web applications that solve real-world problems.<br>
+    - :loudspeaker: Tech explorer always on the lookout for the latest tools, frameworks, and industry trends.<br>
+    - :zap: LeetCode addict who enjoys tackling complex challenges with creative and efficient solutions.<br>
+    - :compass: Constantly evolving through open source contributions and hands-on learning.<br>
+    - 🎯 Freelance developer delivering reliable, scalable solutions for clients around the globe.<br>
 
-Let’s connect and build something impactful — whether it’s a project, a collaboration, or solving a tough bug. 🚀
+Let’s connect and build something impactful -  whether it’s a project, a collaboration, or solving a tough bug. 🚀
 </p>
     
 <p align="right">
