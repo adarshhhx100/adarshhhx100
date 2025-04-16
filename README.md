@@ -9,6 +9,7 @@
     - :compass: Constantly evolving through open source contributions and hands-on learning.<br>
     - 🎯 Freelance developer delivering reliable, scalable solutions for clients around the globe.<br>
 
+Let’s connect and build something impactful -  whether it’s a project, a collaboration, or solving a tough bug. 🚀
 </p>
     
 <p align="right">
